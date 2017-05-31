@@ -1,0 +1,6 @@
+Order Number, Date, Client Name, State, Tax Rate, Product Type, Area, Cost per squarefoot, Labor per squarefoot, Material Cost, Labor Cost, Tax, Total, 
+66, 2060-06-06, Bob Burger, IN, 6.00, Wood, 66, 5.15, 4.75, 339.90, 313.50, 39.204000, 692.604000, 
+999, 2018-03-03, Honey, IN, 6.00, Wood, 1000, 5.15, 4.75, 5150.00, 4750.00, 594.000000, 10494.000000, 
+123, 2018-03-03, Linda, MI, 5.75, Wood, 999, 5.15, 4.75, 5144.85, 4745.25, 568.680750, 10458.780750, 
+555, 2018-03-03, Kimberly, IN, 6.00, Tile, 500, 3.50, 4.15, 1750.00, 2075.00, 229.500000, 4054.500000, 
+669, 2060-06-06, Sata, OH, 6.25, Carpet, 666, 2.25, 2.10, 1498.50, 1398.60, 181.068750, 3078.168750, 
