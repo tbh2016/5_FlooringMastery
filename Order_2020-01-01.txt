@@ -1,2 +1,2 @@
 Order Number, Date, Client Name, State, Tax Rate, Product Type, Area, Cost per squarefoot, Labor per squarefoot, Material Cost, Labor Cost, Tax, Total, 
-520, 2018-12-12, Rice Crisp, OH, 6.25, Tile, 20, 3.50, 4.15, 70.00, 83.00, 9.562500, 162.562500, 
+1, 2020-01-01, Sam Iam, MI, 5.75, Carpet, 500, 2.25, 2.10, 1125.00, 1050.00, 125.062500, 2300.062500, 

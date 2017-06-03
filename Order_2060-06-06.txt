@@ -1,3 +1,0 @@
-Order Number, Date, Client Name, State, Tax Rate, Product Type, Area, Cost per squarefoot, Labor per squarefoot, Material Cost, Labor Cost, Tax, Total, 
-66, 2060-06-06, Bob Burger, IN, 6.00, Wood, 66, 5.15, 4.75, 339.90, 313.50, 39.204000, 692.604000, 
-669, 2060-06-06, Sata, OH, 6.25, Carpet, 666, 2.25, 2.10, 1498.50, 1398.60, 181.068750, 3078.168750, 
